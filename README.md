@@ -1,4 +1,4 @@
 # tindog
 Tinder for dogs
 
-click here to visit website: https://github.com/ND1905/tindog/
+click here to visit website: https://nd1905.github.io/tindog/
